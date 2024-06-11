@@ -1,0 +1,12 @@
+[
+    {"nama": "Bambu", "namaLatin": "Bambusoideae spp.", "imageId": "bambu"},
+    {"nama": "Durian", "namaLatin": "Durio spp.", "imageId": "durian"},
+    {"nama": "Kaktus", "namaLatin": "Cactaceae spp.", "imageId": "kaktus"},
+    {"nama": "Kelapa", "namaLatin": "Cocos nucifera", "imageId": "kelapa"},
+    {"nama": "Lidah Buaya", "namaLatin": "Aloe vera", "imageId": "lidah buaya"},
+    {"nama": "Mangga", "namaLatin": "Mangifera indica", "imageId": "mangga"},
+    {"nama": "Mawar", "namaLatin": "Rosa spp.", "imageId": "mawar"},
+    {"nama": "Melati", "namaLatin": "Jasminum spp.", "imageId": "melati"},
+    {"nama": "Padi", "namaLatin": "Oryza sativa", "imageId": "padi"},
+    {"nama": "Pisang", "namaLatin": "Musa spp.", "imageId": "pisang"}
+]
